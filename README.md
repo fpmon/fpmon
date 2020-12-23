@@ -1,2 +1,2 @@
 ### Hi there 👋
-Let's talk about browser fingerprinting!
+## Let's talk about browser fingerprinting!
